@@ -1,0 +1,8 @@
+{
+  "label": "ProseMirror",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "ProseMirror 是一個可擴展的編輯器 lib，用於建構 WYSIWYG 編輯器。"
+  }
+}
